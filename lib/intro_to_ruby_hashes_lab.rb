@@ -13,4 +13,3 @@ end
 def id_hash_generator(number)
   {id: 7}
 end
-end 
