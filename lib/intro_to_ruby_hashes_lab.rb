@@ -11,5 +11,5 @@ def pioneer
 end
 
 def id_hash_generator(number)
-  id_hash_generator.object_id
+  {id: number}
 end
